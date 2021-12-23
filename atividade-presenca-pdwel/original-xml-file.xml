@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<livro>
+    <nome>Xiiiin code</nome>
+    <data formato="w3c">2021-12-23</data>
+    <edicao>1</edicao>
+    <autor>
+        <nome>Natan da Fonseca Lisboa</nome>
+        <site>https://github.com/NatanLisboa</site>
+    </autor>
+    <comentarios>
+        <comentario>
+            <autor>Bianca Kaori Hng</autor>
+            <texto>MARAVILHOSOOOO!</texto>
+        </comentario>
+        <comentario>
+            <autor>Leonardo Naoki Narita</autor>
+            <texto>Simplesmente sensacional! Aprendi o padr&#xE3;o de projeto "Megazord" com essa obra-prima</texto>
+        </comentario>
+    </comentarios>
+</livro>
